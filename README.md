@@ -1,4 +1,4 @@
-# AI vs. Human-Generated Image Classifier
+# AuthentiPic: AI Generated Image Classifier
 
 A PyTorch image classifier that distinguishes AI-generated images from authentic, human-created ones. Built for the **[Detect AI vs. Human-Generated Images](https://www.kaggle.com/competitions/detect-ai-vs-human-generated-images)** Kaggle competition (2025 Women in AI Kaggle Challenge).
 
